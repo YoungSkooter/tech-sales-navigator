@@ -1,14 +1,16 @@
-# Welcome to your Lovable project
+# Tech Sales Navigator
+
+build me tech/technical sdr/bdr portfolio website, this is to show something to the ones hiring me, im from a  sales and marketing background (esp b2b local services) but also got technical knowlegde in tech with the aws SAA, also got surfer content optimization cerification and hubspt cert, trying to break in tech sales - sdr/bdr
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/2c6dec5c-930b-4778-84cd-877d69e3d859).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +22,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
